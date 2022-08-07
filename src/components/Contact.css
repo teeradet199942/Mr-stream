@@ -1,0 +1,10 @@
+.container-1 {
+  max-width: 1460px;
+  margin: 0 auto;
+}
+.content-contac img {
+  width: 40%;
+  border-radius: 10px;
+  margin: auto auto 60px auto;
+  display: block;
+}

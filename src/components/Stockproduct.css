@@ -1,0 +1,25 @@
+.block-1 {
+	width:500px;
+	height: 120px;
+	margin: 20px;
+	background: #c7d0d8;
+	float: left;
+    box-shadow: 2px 2px #9aa7b2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-1 p {
+    font-size: 1.5rem;
+}
+.box-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.text-our{
+    text-align: center;
+    font-size: 3rem;
+
+}
